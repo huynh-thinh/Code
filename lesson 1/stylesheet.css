@@ -1,0 +1,27 @@
+.header-container{
+    background-color: rgb(207, 99, 99);
+    border-radius: 30px;
+    width: 500px;
+}
+
+ul{
+    list-style: none;
+    list-style-type:none;
+    text-align: center;
+
+}
+
+li{
+    float:left;
+    text-decoration:black;
+
+}
+
+.header-list{
+    display: flex;
+    gap: 20px;
+}
+
+li:hover{
+    background-color: white;
+}
